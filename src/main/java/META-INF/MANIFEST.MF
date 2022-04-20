@@ -1,0 +1,80 @@
+Manifest-Version: 1.0
+Main-Class: Application.App
+Class-Path: netty-transport-classes-epoll-4.1.73.Final.jar selenium-devt
+ ools-v95-4.1.2.jar rxjava-3.0.4.jar checker-qual-3.12.0.jar httpmime-4.
+ 5.2.jar grpc-netty-shaded-1.38.0.jar selenium-remote-driver-4.1.2.jar j
+ avax.mail-1.6.2.jar jackson-core-2.12.3.jar opentelemetry-context-1.10.
+ 1.jar batik-extension-1.13.jar batik-slideshow-1.13.jar opentelemetry-s
+ dk-1.10.1.jar jsr305-3.0.2.jar batik-i18n-1.13.jar google-auth-library-
+ credentials-0.26.0.jar batik-anim-1.13.jar selenium-firefox-xpi-driver-
+ 4.1.2.jar batik-css-1.13.jar selenium-http-4.1.2.jar batik-svgbrowser-1
+ .13.jar xalan-2.7.2.jar poi-ooxml-lite-5.0.0.jar failsafe-2.4.4.jar gax
+ -grpc-1.65.0.jar gax-1.65.0.jar testng-7.4.0.jar slf4j-api-2.0.0-alpha5
+ .jar bson-3.3.0.jar opentelemetry-api-1.10.1.jar netty-handler-proxy-4.
+ 1.60.Final.jar annotations-4.1.1.4.jar batik-squiggle-ext-1.13.jar grpc
+ -protobuf-lite-1.38.0.jar xml-apis-ext-1.3.04.jar batik-svgrasterizer-1
+ .13.jar curvesapi-1.06.jar bcprov-jdk15on-1.68.jar google-cloud-storage
+ -1.116.0.jar netty-codec-socks-4.1.60.Final.jar google-http-client-jack
+ son2-1.39.2.jar netty-resolver-4.1.65.Final.jar batik-ttf2svg-1.13.jar 
+ jtoml-2.0.0.jar commons-compress-1.20.jar opencensus-contrib-http-util-
+ 0.28.0.jar google-cloud-core-grpc-1.95.0.jar netty-transport-4.1.65.Fin
+ al.jar batik-shared-resources-1.13.jar httpcore-4.4.14.jar commons-code
+ c-1.15.jar netty-transport-classes-kqueue-4.1.73.Final.jar lombok-1.18.
+ 12.jar selenium-chrome-driver-4.1.2.jar netty-handler-4.1.65.Final.jar 
+ protobuf-java-util-3.17.2.jar auto-service-1.0.1.jar netty-common-4.1.7
+ 3.Final.jar mongodb-driver-3.3.0.jar opentelemetry-sdk-common-1.10.1.ja
+ r selenium-chromium-driver-4.1.2.jar selenium-edge-driver-4.1.2.jar ope
+ ntelemetry-sdk-metrics-1.10.1-alpha.jar grpc-protobuf-1.38.0.jar batik-
+ bridge-1.13.jar opentelemetry-sdk-trace-1.10.1.jar async-http-client-ne
+ tty-utils-2.12.3.jar xmlbeans-4.0.0.jar selenium-opera-driver-4.1.2.jar
+  google-http-client-apache-v2-1.39.2.jar batik-constants-1.13.jar guava
+ -31.0.1-jre.jar commons-collections4-4.4.jar netty-transport-native-kqu
+ eue-4.1.73.Final.jar netty-transport-native-unix-common-4.1.73.Final.ja
+ r opentelemetry-semconv-1.10.1-alpha.jar google-api-services-storage-v1
+ -rev20210127-1.31.0.jar javax.annotation-api-1.3.2.jar batik-squiggle-1
+ .13.jar netty-codec-4.1.65.Final.jar byte-buddy-1.12.7.jar selenium-ie-
+ driver-4.1.2.jar google-cloud-core-http-1.95.0.jar google-api-client-1.
+ 32.1.jar google-oauth-client-1.31.5.jar SparseBitSet-1.2.jar selenium-s
+ afari-driver-4.1.2.jar j2objc-annotations-1.3.jar grpc-stub-1.38.0.jar 
+ commons-exec-1.3.jar serializer-2.7.2.jar checker-compat-qual-2.5.5.jar
+  opencensus-contrib-grpc-util-0.28.0.jar batik-svgpp-1.13.jar selenium-
+ java-4.1.2.jar batik-util-1.13.jar commons-logging-1.2.jar batik-dom-1.
+ 13.jar httpclient-4.5.2.jar batik-parser-1.13.jar batik-xml-1.13.jar po
+ i-5.0.0.jar pdfbox-2.0.22.jar activation-1.1.jar poi-ooxml-5.0.0.jar as
+ ync-http-client-2.12.3.jar netty-codec-http-4.1.65.Final.jar batik-gui-
+ util-1.13.jar error_prone_annotations-2.7.1.jar google-http-client-1.39
+ .2.jar jakarta.activation-api-1.2.1.jar google-auth-library-oauth2-http
+ -0.26.0.jar conscrypt-openjdk-uber-2.5.1.jar extentreports-testng-adapt
+ er-1.2.2.jar opencensus-api-0.28.0.jar woodstox-core-5.2.1.jar failurea
+ ccess-1.0.1.jar batik-gvt-1.13.jar google-api-client-gson-1.32.1.jar st
+ ax2-api-4.2.jar selenium-devtools-v96-4.1.2.jar grpc-core-1.38.0.jar go
+ ogle-cloud-firestore-2.5.1.jar jcl-over-slf4j-1.7.30.jar mongodb-driver
+ -core-3.3.0.jar selenium-devtools-v97-4.1.2.jar gax-httpjson-0.82.0.jar
+  proto-google-cloud-firestore-v1-2.5.1.jar gson-2.8.6.jar batik-script-
+ 1.13.jar netty-reactive-streams-2.0.4.jar grpc-context-1.38.0.jar batik
+ -transcoder-1.13.jar freemarker-2.3.30.jar batik-rasterizer-ext-1.13.ja
+ r proto-google-iam-v1-1.0.14.jar grpc-api-1.38.0.jar grpc-auth-1.38.0.j
+ ar xml-apis-1.4.01.jar selenium-json-4.1.2.jar auto-value-annotations-1
+ .8.1.jar selenium-support-4.1.2.jar opentelemetry-exporter-logging-1.10
+ .1.jar batik-ext-1.13.jar bcpkix-jdk15on-1.68.jar perfmark-api-0.23.0.j
+ ar commons-math3-3.6.1.jar jcommander-1.78.jar google-http-client-appen
+ gine-1.39.2.jar selenium-firefox-driver-4.1.2.jar graphics2d-0.30.jar g
+ rpc-alts-1.38.0.jar proto-google-cloud-firestore-bundle-v1-2.5.1.jar ne
+ tty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar slf4j-simple-2.
+ 0.0-alpha5.jar fontbox-2.0.22.jar netty-transport-native-epoll-4.1.73.F
+ inal.jar proto-google-common-protos-2.3.2.jar google-cloud-core-1.95.0.
+ jar batik-swing-1.13.jar opentelemetry-sdk-logs-1.10.1-alpha.jar api-co
+ mmon-1.10.4.jar jakarta.xml.bind-api-2.3.2.jar firebase-admin-8.0.0.jar
+  xmlgraphics-commons-2.4.jar google-http-client-gson-1.39.2.jar opentel
+ emetry-sdk-extension-autoconfigure-spi-1.10.1.jar reactive-streams-1.0.
+ 3.jar auto-service-annotations-1.0.1.jar batik-svggen-1.13.jar batik-co
+ dec-1.13.jar grpc-grpclb-1.38.0.jar threetenbp-1.5.1.jar listenablefutu
+ re-9999.0-empty-to-avoid-conflict-with-guava.jar protobuf-java-3.17.2.j
+ ar animal-sniffer-annotations-1.20.jar klov-reporter-5.0.1.jar opentele
+ metry-sdk-extension-autoconfigure-1.10.1-alpha.jar netty-transport-nati
+ ve-epoll-4.1.60.Final-linux-x86_64.jar xmlsec-2.2.1.jar jakarta.activat
+ ion-1.2.2.jar jquery-3.5.1.jar auto-common-1.2.jar selenium-devtools-v8
+ 5-4.1.2.jar commons-io-1.3.1.jar batik-rasterizer-1.13.jar netty-buffer
+ -4.1.73.Final.jar batik-all-1.13.jar extentreports-5.0.9.jar batik-svg-
+ dom-1.13.jar batik-awt-util-1.13.jar selenium-api-4.1.2.jar
+
